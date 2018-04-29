@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesAssignment2.Plugins", "GamesAssignment2.Plugins.csproj", "{A2A14080-5943-8E0C-8EB9-E2AC449B1138}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesAssignment2", "GamesAssignment2.csproj", "{B7EA6B5E-76DB-7633-6DDE-D6504944CD68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesAssignment2.Editor.Plugins", "GamesAssignment2.Editor.Plugins.csproj", "{2A9CEB96-4796-6AF7-6C12-2F0DEDC73FD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2A14080-5943-8E0C-8EB9-E2AC449B1138}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2A14080-5943-8E0C-8EB9-E2AC449B1138}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2A14080-5943-8E0C-8EB9-E2AC449B1138}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2A14080-5943-8E0C-8EB9-E2AC449B1138}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7EA6B5E-76DB-7633-6DDE-D6504944CD68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EA6B5E-76DB-7633-6DDE-D6504944CD68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EA6B5E-76DB-7633-6DDE-D6504944CD68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EA6B5E-76DB-7633-6DDE-D6504944CD68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9CEB96-4796-6AF7-6C12-2F0DEDC73FD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9CEB96-4796-6AF7-6C12-2F0DEDC73FD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9CEB96-4796-6AF7-6C12-2F0DEDC73FD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9CEB96-4796-6AF7-6C12-2F0DEDC73FD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
